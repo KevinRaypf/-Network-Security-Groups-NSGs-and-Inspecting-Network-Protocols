@@ -1,5 +1,5 @@
 # -Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols
-p align="center">
+<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
@@ -14,7 +14,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2> :art:Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- 🐿️Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
